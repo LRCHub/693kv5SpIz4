@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "lil' freak",
+  "base_artist": "bbno$",
+  "createdAt": "2026-03-09T15:01:10.316133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/01_Lil_Freak_Usher_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/02_Lil_Freak_Usher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lil Freak (feat. Nicki Minaj)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/03_Lil_Freak_(feat._Nicki_Minaj)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lil Freak (feat. Nicki Minaj)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/04_Lil_Freak_(feat._Nicki_Minaj)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/05_Lil_Freak_Usher.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lil Freak (feat. Nicki Minaj)",
+      "artist": "Usher feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/06_Lil_Freak_(feat._Nicki_Minaj)_Usher_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lil’ Freak",
+      "artist": "Nicki Minaj & Usher",
+      "has_synced": false,
+      "path": "select/07_Lil’_Freak_Nicki_Minaj_&_Usher.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lil’ Freak",
+      "artist": "Usher feat. Nicki Minaj",
+      "has_synced": true,
+      "path": "select/08_Lil’_Freak_Usher_feat._Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "lil Freak",
+      "artist": "Kalin White",
+      "has_synced": false,
+      "path": "select/09_lil_Freak_Kalin_White.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher;Nicki Minaj",
+      "has_synced": true,
+      "path": "select/10_Lil_Freak_Usher;Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lil Freak (feat. Nicki Minaj)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/11_Lil_Freak_(feat._Nicki_Minaj)_Usher.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "lil' freak",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/12_lil'_freak_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "lil' freak",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/13_lil'_freak_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher; Nicki Minaj",
+      "has_synced": true,
+      "path": "select/14_Lil_Freak_Usher;_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lil Freak (feat. Nicki Minaj)",
+      "artist": "USHER",
+      "has_synced": true,
+      "path": "select/15_Lil_Freak_(feat._Nicki_Minaj)_USHER.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "lil' freak",
+      "artist": "​bbno$",
+      "has_synced": true,
+      "path": "select/16_lil'_freak_​bbno$.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "lil' freak",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/17_lil'_freak_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lil Freak",
+      "artist": "Usher",
+      "has_synced": false,
+      "path": "select/18_Lil_Freak_Usher.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lil Freak (w- Nicki Minaj)",
+      "artist": "Usher",
+      "has_synced": true,
+      "path": "select/19_Lil_Freak_(w-_Nicki_Minaj)_Usher.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lil' freak",
+      "artist": "bbno$",
+      "has_synced": false,
+      "path": "select/pl_01_lil'_freak_bbno$.txt"
+    }
+  ]
+}
